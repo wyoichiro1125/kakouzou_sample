@@ -1,1 +1,161 @@
-{"label": "嘉興蔵（万曆版大藏經）第1帙 第2冊", "license": "http://creativecommons.org/licenses/by/4.0/", "attribution": "General Library in the University of Tokyo, Council for Promotion of Study of Daizokyo, and the SAT Daizōkyō Text Database Committee", "@id": "https://wyoichiro1125.github.io/kakouzou_sample/iiif/1_2_manifest.json", "@type": "sc:Manifest", "@context": "http://iiif.io/api/presentation/2/context.json", "metadata": [], "within": "", "logo": "", "description": "", "viewingHint": "", "viewingDirection": "", "sequences": [{"@type": "sc:Sequence", "canvases": [{"@id": "1", "@type": "sc:Canvas", "label": "p. 1", "width": 6000, "height": 4508, "images": [{"@type": "oa:Annotation", "motivation": "sc:painting", "resource": {"@id": "https://wyoichiro1125.github.io/kakouzou_sample/1_2/00001.jpg", "@type": "dctypes:Image", "width": 6000, "height": 4508}, "on": "1"}]}, {"@id": "2", "@type": "sc:Canvas", "label": "p. 2", "width": 6000, "height": 4508, "images": [{"@type": "oa:Annotation", "motivation": "sc:painting", "resource": {"@id": "https://wyoichiro1125.github.io/kakouzou_sample/1_2/00002.jpg", "@type": "dctypes:Image", "width": 6000, "height": 4508}, "on": "2"}]}, {"@id": "3", "@type": "sc:Canvas", "label": "p. 3", "width": 6000, "height": 4508, "images": [{"@type": "oa:Annotation", "motivation": "sc:painting", "resource": {"@id": "https://wyoichiro1125.github.io/kakouzou_sample/1_2/00003.jpg", "@type": "dctypes:Image", "width": 6000, "height": 4508}, "on": "3"}]}, {"@id": "4", "@type": "sc:Canvas", "label": "p. 4", "width": 6000, "height": 4508, "images": [{"@type": "oa:Annotation", "motivation": "sc:painting", "resource": {"@id": "https://wyoichiro1125.github.io/kakouzou_sample/1_2/00004.jpg", "@type": "dctypes:Image", "width": 6000, "height": 4508}, "on": "4"}]}, {"@id": "5", "@type": "sc:Canvas", "label": "p. 5", "width": 6000, "height": 4508, "images": [{"@type": "oa:Annotation", "motivation": "sc:painting", "resource": {"@id": "https://wyoichiro1125.github.io/kakouzou_sample/1_2/00005.jpg", "@type": "dctypes:Image", "width": 6000, "height": 4508}, "on": "5"}]}, {"@id": "6", "@type": "sc:Canvas", "label": "p. 6", "width": 6000, "height": 4508, "images": [{"@type": "oa:Annotation", "motivation": "sc:painting", "resource": {"@id": "https://wyoichiro1125.github.io/kakouzou_sample/1_2/00006.jpg", "@type": "dctypes:Image", "width": 6000, "height": 4508}, "on": "6"}]}, {"@id": "7", "@type": "sc:Canvas", "label": "p. 7", "width": 6000, "height": 4508, "images": [{"@type": "oa:Annotation", "motivation": "sc:painting", "resource": {"@id": "https://wyoichiro1125.github.io/kakouzou_sample/1_2/00007.jpg", "@type": "dctypes:Image", "width": 6000, "height": 4508}, "on": "7"}]}]}]}
+{
+    "label": "嘉興蔵（万曆版大藏經）第1帙 第2冊",
+    "license": "http://creativecommons.org/licenses/by/4.0/",
+    "attribution": "General Library in the University of Tokyo, Council for Promotion of Study of Daizokyo, and the SAT Daizōkyō Text Database Committee",
+    "@id": "https://wyoichiro1125.github.io/kakouzou_sample/iiif/1_2_manifest.json",
+    "@type": "sc:Manifest",
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "metadata": [],
+    "within": "",
+    "logo": "",
+    "description": "",
+    "viewingHint": "",
+    "viewingDirection": "",
+    "sequences": [
+        {
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "1",
+                    "@type": "sc:Canvas",
+                    "label": "p. 1",
+                    "width": 6000,
+                    "height": 4508,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://wyoichiro1125.github.io/kakouzou_sample/1_2/00001.jpg",
+                                "@type": "dctypes:Image",
+                                "width": 6000,
+                                "height": 4508
+                            },
+                            "on": "1"
+                        }
+                    ]
+                },
+                {
+                    "@id": "2",
+                    "@type": "sc:Canvas",
+                    "label": "p. 2",
+                    "width": 6000,
+                    "height": 4508,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://wyoichiro1125.github.io/kakouzou_sample/1_2/00002.jpg",
+                                "@type": "dctypes:Image",
+                                "width": 6000,
+                                "height": 4508
+                            },
+                            "on": "2"
+                        }
+                    ]
+                },
+                {
+                    "@id": "3",
+                    "@type": "sc:Canvas",
+                    "label": "p. 3",
+                    "width": 6000,
+                    "height": 4508,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://wyoichiro1125.github.io/kakouzou_sample/1_2/00003.jpg",
+                                "@type": "dctypes:Image",
+                                "width": 6000,
+                                "height": 4508
+                            },
+                            "on": "3"
+                        }
+                    ]
+                },
+                {
+                    "@id": "4",
+                    "@type": "sc:Canvas",
+                    "label": "p. 4",
+                    "width": 6000,
+                    "height": 4508,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://wyoichiro1125.github.io/kakouzou_sample/1_2/00004.jpg",
+                                "@type": "dctypes:Image",
+                                "width": 6000,
+                                "height": 4508
+                            },
+                            "on": "4"
+                        }
+                    ]
+                },
+                {
+                    "@id": "5",
+                    "@type": "sc:Canvas",
+                    "label": "p. 5",
+                    "width": 6000,
+                    "height": 4508,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://wyoichiro1125.github.io/kakouzou_sample/1_2/00005.jpg",
+                                "@type": "dctypes:Image",
+                                "width": 6000,
+                                "height": 4508
+                            },
+                            "on": "5"
+                        }
+                    ]
+                },
+                {
+                    "@id": "6",
+                    "@type": "sc:Canvas",
+                    "label": "p. 6",
+                    "width": 6000,
+                    "height": 4508,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://wyoichiro1125.github.io/kakouzou_sample/1_2/00006.jpg",
+                                "@type": "dctypes:Image",
+                                "width": 6000,
+                                "height": 4508
+                            },
+                            "on": "6"
+                        }
+                    ]
+                },
+                {
+                    "@id": "7",
+                    "@type": "sc:Canvas",
+                    "label": "p. 7",
+                    "width": 6000,
+                    "height": 4508,
+                    "images": [
+                        {
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://wyoichiro1125.github.io/kakouzou_sample/1_2/00007.jpg",
+                                "@type": "dctypes:Image",
+                                "width": 6000,
+                                "height": 4508
+                            },
+                            "on": "7"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
